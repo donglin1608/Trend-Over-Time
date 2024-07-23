@@ -1,5 +1,7 @@
 This is a classical example of trend over time in Power BI, we use Line chart, Bar chart and Column chart.
 View https://donglin1608.github.io/trend-over-time/
+![image](https://github.com/user-attachments/assets/7d5899ee-4904-439b-a32f-acfcc2382e54)
+
 
 ### Top Line Chart: Sum of Order Total by Month and Product Region
 This line chart shows the total order value (sum of order total) across different months (February, March, April) for three regions: Asia, Europe, and North America.
